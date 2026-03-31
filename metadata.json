@@ -1,0 +1,7 @@
+{
+  "name": "Remix: De Markt-  Bangla Audio Transcriber",
+  "description": "A specialized AI application that transcribes audio files and live speech specifically into the Bangladeshi dialect of Bangla, ensuring cultural and linguistic accuracy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
