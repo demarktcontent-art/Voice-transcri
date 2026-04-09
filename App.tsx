@@ -183,7 +183,7 @@ const App: React.FC = () => {
         <div className="relative mb-6">
           <div className="px-10 py-4 bg-[#1e293b] rounded-[2rem] border-2 border-blue-400/30 shadow-2xl flex items-center justify-center transform transition-all hover:scale-105 select-none">
             <span className="text-3xl md:text-4xl font-black font-['Hind_Siliguri'] text-white tracking-tight">
-              নাজমুল এর বাংলা লেখক
+              De Markt এর বাংলা লেখক
             </span>
           </div>
           <div className="absolute -inset-1 bg-blue-500/10 blur-2xl rounded-[2rem] -z-10"></div>
@@ -370,7 +370,7 @@ const App: React.FC = () => {
       {/* Visual Footer */}
       <footer className="mt-24 py-12 border-t border-slate-800/50 w-full max-w-6xl flex flex-col items-center gap-6">
         <div className="text-xl font-black font-['Hind_Siliguri'] text-slate-600 opacity-30 hover:opacity-100 transition-opacity">
-          নাজমুল এর বাংলা লেখক
+          De Markt এর বাংলা লেখক
         </div>
         <div className="text-slate-600 text-[10px] font-black tracking-[0.6em] uppercase text-center opacity-40">
           © {new Date().getFullYear()} • BUILT FOR BANGLADESH • POWERED BY GEMINI AI
